@@ -29,8 +29,8 @@ return array
      do 
          {
            array.push('I love the Beatles!')
-           
-           return arraynumber++
+           return array
+           number++
          }
     while(number<15)
 }
